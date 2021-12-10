@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>
+		MyFirstWebpage.com
+		</title>	
+	</head>
+
+	<body>
+	<h1>Lindsay Mangieri's First Webpage<h1>
+	<h2>Favorite Things</h2>
+	<ol>
+		<li>Food - Larry's Giant Subs
+		<li>Artist-Pink
+		<li>TV Show - Manifest
+		<li>Movie - Forest Gump
+		<li>Drink - Coke
+	</ol>
+	<p>
+		My name is <strong>Lindsay Mangieri</strong>.  I was born in <em>Waycross, Georgia</em> in 1983!
+	</p>
+
+	<img src="football.jpg">
+
+	</body>
+
+</html>
